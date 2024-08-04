@@ -1,0 +1,4 @@
+
+1. Focar em melhorar as operações logísticas nas cidades com maior número de atrasos.
+2. Implementar processos específicos para tipos de carga que frequentemente sofrem atrasos.
+3. Analisar os fatores que contribuem para altos custos adicionais em determinadas cidades e tipos de carga e buscar soluções para minimizá-los.
